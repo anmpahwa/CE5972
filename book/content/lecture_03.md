@@ -18,11 +18,11 @@ In the previous lecture, we broadly discussed different types of problems. In th
 
   Subject to:
 
-  $
+  $$
     & 10x_1 + 20x_2 \geq 100 \\
     & x_1, x_2 \geq 0
   \end{aligned}
-  $
+  $$
 
   - **Non-linear Problems**: A non-linear optimisation problem involves an objective function or constraints (or both) that are non-linear in nature i.e., the objective function and constraints are expressed via complex interactions of decision variables, such as exponential, polynomial, etc.
 
@@ -42,6 +42,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
     & p_2 \geq 150
     & p_1, p_2 \in \mathbb{Z}_+
   \end{aligned}
+  $$
 
 ### Temporal Classification
 
@@ -81,7 +82,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
     & x_3 - x_4 \leq 3 \\
     & x_4 - x_5 \leq 3 \\
     & x_5 - x_6 \leq 3 \\
-    & x_i \in \mathbb{Z}_+, \ \forall i
+    & x_i \in \mathbb{Z}_+ \ \forall i
   \end{aligned}
   $$
 
@@ -100,7 +101,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   $$
 
   Subject to:
-  
+
   $$
   \begin{aligned}
       & 78x_1 \geq 900 + 100z^{0.95} \\
