@@ -2,6 +2,9 @@
 
 ## Origins of Applied Optimisation
 Human civilization witnessed a tremendours growth in size and complexity during the Industrial Revolution leading to segmentation of labor and management responsibilities in:
+
+![The Industrial Revolution](figures/01_Industrial_Revolution.webp)
+
 - Public organisations (e.g., national government)
 - Private organisations (e.g., tech companies)
 
