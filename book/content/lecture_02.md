@@ -35,13 +35,17 @@ The previous lecture introduced Operations Research as a scientific approach to 
 
   Below is a typical mathematical model with an objective function, a vector of decision variables, and a vector of inequality and equality constraints:
 
-  \[
-  \text{Maximize (Minimize) } f(x)
-  \]
-  Subject to,
-  \[
-  g(x) \leq 0, \quad h(x) = 0
-  \]
+  $$
+  \min_{x_1, x_2} \ f(\mathbf{x})
+  $$
+
+  Subject to:
+  $$
+  \begin{aligned}
+    & \mathbf{g}(\mathbf{x}) \leq 0 \\
+    & \mathbf{h}(\mathbf{x}) \eq 0
+  \end{aligned}
+  $$
 
   Further, these problems and associated models can be categorized as follows:
 
