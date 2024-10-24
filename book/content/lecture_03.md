@@ -65,7 +65,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   | 09 PM – 12 AM | 4                        | ₹1000            |
 
   $$
-  \min_{x} \ Z = 1500x_1 + 900x_2 + 600x_3 + 800x_4 + 1400x_5 + 1000x_6
+  \min_{\mathbf{x}} \ Z = 1500x_1 + 900x_2 + 600x_3 + 800x_4 + 1400x_5 + 1000x_6
   $$
 
   Subject to:
