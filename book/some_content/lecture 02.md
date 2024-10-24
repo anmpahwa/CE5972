@@ -68,4 +68,3 @@ The previous lecture introduced Operations Research as a scientific approach to 
 
    
    This course will focus on defining and formulating problems in Transportation Engineering, developing and employing appropriate optimization techniques, and consequently inferring and implementing the results.
-
