@@ -1,6 +1,4 @@
-# CE 5972
-
-## Optimisation Techniques in Transportation Engineering
+# CE 5972 - Optimisation Techniques in Transportation Engineering
 
 ### Objectives
 
@@ -29,3 +27,9 @@
 
 - Hillier, F. S., & Lieberman, G. J. (2024). Introduction to operations research. 12th edition, McGraw-Hill
 - Winston, W. L. (2022). Operations Research: Applications and Algorithms. 4th edition, Cengage Learning
+
+### Grading
+
+
+
+### Schedule 
