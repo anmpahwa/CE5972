@@ -19,6 +19,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   Subject to:
 
   $$
+  \begin{aligned}
     & 10x_1 + 20x_2 \geq 100 \\
     & x_1, x_2 \geq 0
   \end{aligned}
@@ -39,7 +40,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
     & 5000 - 20p_1 \geq 1000 \\
     & x6000 - 0.05p_2^2 \geq 1500 \\
     & p_1 \geq 150 \\
-    & p_2 \geq 150
+    & p_2 \geq 150 \\
     & p_1, p_2 \in \mathbb{Z}_+
   \end{aligned}
   $$
