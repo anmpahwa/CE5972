@@ -33,19 +33,19 @@ The previous lecture introduced Operations Research as a scientific approach to 
    
   All models are idealized representations of the problem, with necessary approximations and assumptions.
 
-  Below is a typical mathematical model with an objective function, a vector of decision variables, and a vector of inequality and equality constraints:
+  Below is a typical mathematical model with an objective function $f$, a vector of decision variables $\mathbf{x}$, and a vector of inequality and equality constraints $\mathbf{g},\mathbf{h}$, respecively:
 
   $$
   \min_{x_1, x_2} \ f(\mathbf{x})
   $$
 
   Subject to:
-  $$
+  $
   \begin{aligned}
     & \mathbf{g}(\mathbf{x}) \leq 0 \\
-    & \mathbf{h}(\mathbf{x}) \eq 0
+    & \mathbf{h}(\mathbf{x}) = 0
   \end{aligned}
-  $$
+  $
 
   Further, these problems and associated models can be categorized as follows:
 
