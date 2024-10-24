@@ -41,12 +41,12 @@ The previous lecture introduced Operations Research as a scientific approach to 
 
   Subject to:
 
-  $
+  $$
   \begin{aligned}
     & \mathbf{g}(\mathbf{x}) \leq 0 \\
     & \mathbf{h}(\mathbf{x}) = 0
   \end{aligned}
-  $
+  $$
 
   Further, these problems and associated models can be categorized as follows:
 
