@@ -9,17 +9,17 @@ The previous lecture introduced Operations Research as a scientific approach to 
 ### 1. Define the Problem
 
 Most problems are initially described vaguely, and therefore our first task is to precisely articulate the problem by identifying the:
-- **Objective** – Determine the goal such as resource minimization, service maximization, cost minimization, profit maximization, etc.
-- **Decisions** – Determine the key choices that need to be made, such as how much to procure, where to allocate resources, which route to select, etc.
-- **Constraints** – Determine limitations on the decisions, such as budgetary limits, resource availability, regulatory requirements, operational capacities, etc.
+- **Objective** – determine the goal such as resource minimization, service maximization, cost minimization, profit maximization, etc.
+- **Decisions** – determine the key choices that need to be made, such as how much to procure, where to allocate resources, which route to select, etc.
+- **Constraints** – determine limitations on the decisions, such as budgetary limits, resource availability, regulatory requirements, operational capacities, etc.
   
 Through thorough consultations, identify how all relevant stakeholders, such as owners, employees, suppliers, customers, and government influence the goal, choices, and limitations.
 
 For instance, consider a highway operations management firm maintaining the Chennai-Bangalore Expressway. The firm seeks to maximize toll revenue collected from private and commercial vehicles using the expressway; however, it must adhere to toll price regulations (maximum/minimum toll price) set by the National Highway Authority of India (NHAI) to facilitate sufficient traffic flow and tax collection.
 
-- **Objective** – Revenue maximization
-- **Decisions** – A toll price for private vehicles and another for commercial vehicles
-- **Constraints** – Maximum/minimum toll price for private vehicles and commercial vehicles, as regulated by NHAI.
+- **Objective** – revenue maximization
+- **Decisions** – a toll price for private vehicles and another for commercial vehicles
+- **Constraints** – maximum/minimum toll price for private vehicles and commercial vehicles, as regulated by NHAI.
 
 ### 2. Collect Relevant Data
 
