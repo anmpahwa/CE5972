@@ -38,7 +38,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
     $$
     \begin{aligned}
       & 5000 - 20p_1 \geq 1000 \\
-      & x6000 - 0.05p_2^2 \geq 1500 \\
+      & 6000 - 0.05p_2^2 \geq 1500 \\
       & p_1 \geq 150 \\
       & p_2 \geq 150 \\
       & p_1, p_2 \in \mathbb{Z}_+
