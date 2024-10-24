@@ -3,7 +3,7 @@
 ## Origins of Applied Optimisation
 Human civilization witnessed a tremendours growth in size and complexity during the Industrial Revolution leading to segmentation of labor and management responsibilities in:
 
-![The Industrial Revolution](figures/01_industrial_revolution.webp)
+![The Industrial Revolution](/book/figures/01_industrial_revolution.webp)
 
 - Public organisations (e.g., national government)
 - Private organisations (e.g., tech companies)
@@ -12,15 +12,6 @@ Human civilization witnessed a tremendours growth in size and complexity during 
 
 ## Applied Optimisation
 A scientific approach to decision-making applied to sectors like:
-- Construction
-- Financial Planning
-- Health Care
-- Human Resource
-- Manufacturing
-- Telecommunications
-- Transportation
-
-## Examples of Applications:
 
 ### 1. Construction
 
