@@ -33,6 +33,7 @@ $$
 A matrix is a rectangular array of numbers.
 
 $$
+\mathbf{M} = 
 \begin{bmatrix}
 9 & 1 & 5 \\
 4 & 6 & 7
