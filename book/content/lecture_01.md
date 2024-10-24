@@ -10,7 +10,7 @@ Human civilization witnessed a tremendours growth in size and complexity during 
 
 **Core Question**: How to allocate the available resources to various operations and activities in a way that is optimal for the organization as a whole?
 
-## Applied Optimisation
+## Examples of Applied Optimisation
 A scientific approach to decision-making applied to sectors like:
 
 ### 1. Construction
