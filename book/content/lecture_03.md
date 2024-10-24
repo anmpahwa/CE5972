@@ -17,12 +17,12 @@ In the previous lecture, we broadly discussed different types of problems. In th
   $$
 
   Subject to:
-  $$
-  10x_1 + 20x_2 \geq 100
-  $$
-  $$
-  x_1, x_2 \geq 0
-  $$
+
+  $
+    & 10x_1 + 20x_2 \geq 100 \\
+    & x_1, x_2 \geq 0
+  \end{aligned}
+  $
 
   - **Non-linear Problems**: A non-linear optimisation problem involves an objective function or constraints (or both) that are non-linear in nature i.e., the objective function and constraints are expressed via complex interactions of decision variables, such as exponential, polynomial, etc.
 
@@ -33,6 +33,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   $$
 
   Subject to:
+
   $$
   \begin{aligned}
     & 5000 - 20p_1 \geq 1000 \\
@@ -66,6 +67,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   $$
 
   Subject to:
+
   $$
   \begin{aligned}
     & x_1 \geq 20 \\
@@ -98,6 +100,7 @@ In the previous lecture, we broadly discussed different types of problems. In th
   $$
 
   Subject to:
+  
   $$
   \begin{aligned}
       & 78x_1 \geq 900 + 100z^{0.95} \\

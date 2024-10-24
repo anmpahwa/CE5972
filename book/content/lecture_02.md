@@ -40,6 +40,7 @@ The previous lecture introduced Operations Research as a scientific approach to 
   $$
 
   Subject to:
+
   $
   \begin{aligned}
     & \mathbf{g}(\mathbf{x}) \leq 0 \\
