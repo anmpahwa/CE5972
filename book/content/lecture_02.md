@@ -71,4 +71,6 @@ The previous lecture introduced Operations Research as a scientific approach to 
    
   This post-optimality analysis includes what-if analysis to address some questions about what would happen to the optimal solution if different assumptions were made. In part, this post-optimality analysis also involves conducting sensitivity analysis to determine which parameters of the model are most critical in determining the solution, and understanding how the optimal solution would change if the critical parameters changed. 
    
-  This course will focus on defining and formulating problems in Transportation Engineering, developing and employing appropriate optimization techniques, and consequently inferring and implementing the results.
+---
+
+This course will focus on defining and formulating problems in Transportation Engineering, developing and employing appropriate optimization techniques, and consequently inferring and implementing the results.
