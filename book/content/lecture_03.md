@@ -13,7 +13,9 @@ In the previous lecture, we broadly discussed different types of problems. In th
   **Example**: Consider a textile firm operating in Kochi. This company needs to ship 100 tons of textile goods from Kanchipuram and can rent two types of trucks: T1 and T2. Each truck of type T1 can carry 10 tons of goods and costs ₹5000 per trip, while each truck of type T2 can carry 20 tons and costs ₹8000 per trip. Thus, how many T1 and T2 type trucks should the company deploy so as to minimize the total costs?
 
   $$
-  \min_{x_1, x_2} \ Z = 5000x_1 + 8000x_2
+  \begin{aligned}
+    & \min_{x_1, x_2} \ Z = 5000x_1 + 8000x_2
+  \end{aligned}
   $$
 
   Subject to:
@@ -30,13 +32,9 @@ In the previous lecture, we broadly discussed different types of problems. In th
   **Example**: Consider a highway management firm that operates and maintains the expressway connecting Chennai with Bangalore. The highway management firm wants to set toll price $p_1$ for private vehicles and $p_2$ for commercial vehicles, to collect toll revenue on this highway. However, the National Highways Authority of India (NHAI) wants to facilitate sufficient flow between Chennai and Bangalore, ensuring that at least 1000 private and 1500 commercial vehicles each use the expressway during the peak hour. Note, the peak hour expressway traffic for private and commercial vehicles is subject to respective toll prices, and is given by $Q_1(p_1)$ and $Q_2(p_2)$, respectively. Nonetheless, the NHAI also wants to ensure sufficient tax collection, requiring toll price to at least be ₹150. Considering these regulations, what toll prices should the firm set so as to maximize the toll revenue?
 
   $$
-  \max_{p_1, p_2} \ Z = p_1 (5000 - 20p_1) + p_2 \left(6000 - 0.05p_2^2 \right)
-  $$
-
-  Subject to:
-
-  $$
   \begin{aligned}
+    & \max_{p_1, p_2} \ Z = p_1 (5000 - 20p_1) + p_2 \left(6000 - 0.05p_2^2 \right)
+    & Subject to:
     & 5000 - 20p_1 \geq 1000 \\
     & x6000 - 0.05p_2^2 \geq 1500 \\
     & p_1 \geq 150 \\
