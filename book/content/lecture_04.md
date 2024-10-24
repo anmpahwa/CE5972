@@ -8,7 +8,7 @@ Before we begin programming optimisation models, we will first cover some basics
 
 ### Vectors
 
-Vectors are an array of numbers arranged either in a column or in a row. Thus, a column vector with \( n \) rows has a dimension of \( n \times 1 \).
+Vectors are an array of numbers arranged either in a column or in a row. Thus, a column vector with $n$ rows has a dimension of $n\times1.
 
 \[
 \begin{bmatrix}
