@@ -4,4 +4,4 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: content/lecture02.md
+    - file: content/lecture_02.md
