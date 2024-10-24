@@ -25,7 +25,7 @@
 	- Solution Method: local search, evolutionary computation, and swarm intelligence metaheuristics
 	- Case Studies
 
-### Textboosk
+### Textbooks
 
 - Hillier, F. S., & Lieberman, G. J. (2024). Introduction to operations research. 12th edition, McGraw-Hill
 - Winston, W. L. (2022). Operations Research: Applications and Algorithms. 4th edition, Cengage Learning
