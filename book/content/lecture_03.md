@@ -18,10 +18,10 @@ In the previous lecture, we broadly discussed different types of problems. In th
 
   Subject to:
   $$
-  \begin{aligned}
-    & 10x_1 + 20x_2 \geq 100 \\
-    & x_1, x_2 \geq 0
-  \end{aligned}
+  10x_1 + 20x_2 \geq 100
+  $$
+  $$
+  x_1, x_2 \geq 0
   $$
 
   - **Non-linear Problems**: A non-linear optimisation problem involves an objective function or constraints (or both) that are non-linear in nature i.e., the objective function and constraints are expressed via complex interactions of decision variables, such as exponential, polynomial, etc.
