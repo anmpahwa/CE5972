@@ -28,26 +28,16 @@ v_2 =
 \end{bmatrix}_{1 \times 6}
 $$
 
-$$
-\begin{bmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{bmatrix}
-$$
-
 ### Matrices
 
 A matrix is a rectangular array of numbers.
 
-\[
+$$
 \begin{bmatrix}
-a_{11} & a_{12} & \dots & a_{1n} \\
-a_{21} & a_{22} & \dots & a_{2n} \\
-\vdots & \vdots & \ddots & \vdots \\
-a_{m1} & a_{m2} & \dots & a_{mn}
-\end{bmatrix}
-\]
+9 & 1 & 5 \\
+4 & 6 & 7
+\end{bmatrix}_{2 \times 3}
+$$
 
 ### Operations
 
