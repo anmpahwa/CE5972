@@ -2,6 +2,8 @@
 
 Before we begin programming optimisation models, we will first cover some basics of linear algebra in this lecture.
 
+---
+
 ## Linear Algebra
 
 ### Vectors

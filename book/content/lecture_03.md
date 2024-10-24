@@ -2,6 +2,8 @@
 
 In the previous lecture, we broadly discussed different types of problems. In this lecture, we will delve deeper into problem classification definitions along with relevant examples from Transportation Engineering.
 
+---
+
 ## Types of Problems
 
 ### Functional Classification

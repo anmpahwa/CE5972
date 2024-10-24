@@ -2,6 +2,8 @@
 
 The previous lecture introduced Operations Research as a scientific approach to optimal decision-making. In this lecture, we shall lay down the foundations of this scientific approach.
 
+---
+
 ## The Five Step Process of Operations Research
 
 ### 1. Define the Problem
