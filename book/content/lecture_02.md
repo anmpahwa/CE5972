@@ -33,20 +33,20 @@ A well-defined problem with relevant data enables us to formulate the problem in
   
 All models are idealized representations of the problem, with necessary approximations and assumptions.
 
-Below is a typical mathematical model with an objective function $f$, a vector of decision variables $\mathbf{\mathit{x}}$, and a vector of inequality and equality constraints $\mathbf{g},\mathbf{h}$, respecively:
+Below is a typical mathematical model with an objective function $f$, a vector of decision variables $\mathbf{x}$, and a vector of inequality and equality constraints $\mathbf{g},\mathbf{h}$, respecively:
 
 Obective:
 
 $$
-\min_{\mathbf{\mathit{x}}} \ f(\mathbf{\mathit{x}})
+\min_{\mathbf{x}} \ f(\mathbf{x})
 $$
 
 Subject to:
 
 $$
 \begin{aligned}
-  & \mathbf{g}(\mathbf{\mathit{x}}) \leq 0 \\
-  & \mathbf{h}(\mathbf{\mathit{x}}) = 0
+  & \mathbf{g}(\mathbf{x}) \leq 0 \\
+  & \mathbf{h}(\mathbf{x}) = 0
 \end{aligned}
 $$
 
