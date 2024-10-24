@@ -33,8 +33,8 @@ In the previous lecture, we broadly discussed different types of problems. In th
 
   $$
   \begin{aligned}
-    & \max_{p_1, p_2} \ Z = p_1 (5000 - 20p_1) + p_2 \left(6000 - 0.05p_2^2 \right)
-    & Subject to:
+    & \max_{p_1, p_2} \ Z = p_1 (5000 - 20p_1) + p_2 \left(6000 - 0.05p_2^2 \right) \\
+    & Subject to: \\
     & 5000 - 20p_1 \geq 1000 \\
     & x6000 - 0.05p_2^2 \geq 1500 \\
     & p_1 \geq 150 \\
