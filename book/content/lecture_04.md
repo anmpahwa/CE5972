@@ -10,15 +10,13 @@ Before we begin programming optimisation models, we will first cover some basics
 
 Vectors are an array of numbers arranged either in a column or in a row. Thus, a column vector with $n$ rows has a dimension of $n \times 1$.
 
-<p>
-  \[
-  \begin{bmatrix}
-  1 & 2 & 3 \\
-  4 & 5 & 6 \\
-  7 & 8 & 9
-  \end{bmatrix}
-  \]
-</p>
+$$
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{bmatrix}
+$$
 
 ### Matrices
 
