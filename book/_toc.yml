@@ -5,3 +5,4 @@ parts:
   - caption: Contents
     chapters:
     - file: content/lecture_02.md
+    - file: content/lecture_03.md
