@@ -8,10 +8,12 @@ Before we begin programming optimisation models, we will first cover some basics
 
 ### Vectors
 
-Vectors are an array of numbers arranged either in a column or in a row. Thus, a column vector with $n$ rows has a dimension of $n \times 1$.
+Vectors are an array of numbers arranged either in a column or in a row. Thus, a column vector with $n$ rows has a dimension of $n \times 1$, while a row vector with $n$ columns has a dimension of $1 \times n$.
+
+For example,
 
 $$
-v_1 = 
+\mathbf{v} = 
 \begin{bmatrix}
 9 \\
 1 \\
@@ -21,15 +23,19 @@ v_1 =
 7
 \end{bmatrix}_{6 \times 1}
 \quad
-v_2 = 
+\mathbf{v} =
 \begin{bmatrix}
 9 & 1 & 5 & 4 & 6 & 7
 \end{bmatrix}_{1 \times 6}
 $$
 
+Note, the $i^{th}$ element of vector $v is given by $v_i.
+
 ### Matrices
 
-A matrix is a rectangular array of numbers.
+A matrix is a rectangular array of numbers with $r rows and $c columns, thus having a dimension of $r \times c$.
+
+For example,
 
 $$
 \mathbf{M} = 
@@ -38,6 +44,8 @@ $$
 4 & 6 & 7
 \end{bmatrix}_{2 \times 3}
 $$
+
+Note, the element from $i^{th}$ row and $j^{th}$ column of matrix $M is given by $m_{ij}$. 
 
 ### Operations
 
