@@ -1,11 +1,10 @@
 format: jb-book
-root: intro.md
+root: intro.ipynb
 
 parts:
   - caption: Contents
     chapters:
-    - file: content/lecture_01.md
-    - file: content/lecture_02.md
-    - file: content/lecture_03.md
-    - file: content/lecture_04.md
-    - file: content/text_and_code.ipynb
+    - file: content/lecture_01.ipynb
+    - file: content/lecture_02.ipynb
+    - file: content/lecture_03.ipynb
+    - file: content/lecture_04.ipynb
