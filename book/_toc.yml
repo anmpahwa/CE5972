@@ -8,3 +8,4 @@ parts:
     - file: content/lecture_02.md
     - file: content/lecture_03.md
     - file: content/lecture_04.md
+    - file: content/text_and_code.ipynb
