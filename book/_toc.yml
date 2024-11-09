@@ -9,3 +9,7 @@ parts:
     - file: content/lecture_03.ipynb
     - file: content/lecture_04.ipynb
     - file: content/lecture_05.ipynb
+    - file: content/lecture_06.ipynb
+    - file: content/lecture_07.ipynb
+    - file: content/lecture_08.ipynb
+    - file: content/lecture_09.ipynb
