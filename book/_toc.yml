@@ -17,3 +17,4 @@ parts:
     - file: content/lecture_11.ipynb
     - file: content/lecture_12.ipynb
     - file: content/lecture_13.ipynb
+    - file: content/lecture_14.ipynb
