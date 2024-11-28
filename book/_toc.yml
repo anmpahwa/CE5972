@@ -17,4 +17,13 @@ parts:
     - file: content/lecture_11.ipynb
     - file: content/lecture_12.ipynb
     - file: content/lecture_13.ipynb
-    - file: content/lecture_14.ipynb
+    - file: content/lecture_27.ipynb
+    - file: content/lecture_28.ipynb
+    - file: content/lecture_29.ipynb
+    - file: content/lecture_30.ipynb
+    - file: content/lecture_31.ipynb
+    - file: content/lecture_32.ipynb
+    - file: content/lecture_33.ipynb
+    - file: content/lecture_34.ipynb
+    - file: content/lecture_35.ipynb
+    - file: content/lecture_36.ipynb
