@@ -17,6 +17,19 @@ parts:
     - file: content/lecture_11.ipynb
     - file: content/lecture_12.ipynb
     - file: content/lecture_13.ipynb
+    - file: content/lecture_14.ipynb
+    - file: content/lecture_15.ipynb
+    - file: content/lecture_16.ipynb
+    - file: content/lecture_17.ipynb
+    - file: content/lecture_18.ipynb
+    - file: content/lecture_19.ipynb
+    - file: content/lecture_20.ipynb
+    - file: content/lecture_21.ipynb
+    - file: content/lecture_22.ipynb
+    - file: content/lecture_23.ipynb
+    - file: content/lecture_24.ipynb
+    - file: content/lecture_25.ipynb
+    - file: content/lecture_26.ipynb
     - file: content/lecture_27.ipynb
     - file: content/lecture_28.ipynb
     - file: content/lecture_29.ipynb
@@ -27,3 +40,4 @@ parts:
     - file: content/lecture_34.ipynb
     - file: content/lecture_35.ipynb
     - file: content/lecture_36.ipynb
+    - file: content/lecture_37.ipynb
