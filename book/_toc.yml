@@ -41,3 +41,4 @@ parts:
     - file: content/lecture_35.ipynb
     - file: content/lecture_36.ipynb
     - file: content/lecture_37.ipynb
+    - file: content/lecture_38.ipynb
