@@ -28,8 +28,79 @@
 - Hillier, F. S., & Lieberman, G. J. (2024). Introduction to operations research. 12th edition, McGraw-Hill
 - Winston, W. L. (2022). Operations Research: Applications and Algorithms. 4th edition, Cengage Learning
 
+### Schedule
+
+  | S. No. | Topic                             |
+  |--------|-----------------------------------|
+  | 01     | Introduction                      |
+  | 02     | Five Step Process                 |
+  | 03     | Problem Types                     |
+  | 04     | Linear Programming                |
+  | 05     | Graphical Solution Method         |
+  | 06     | Graphical Solution Method         |
+  | 07     | Assignment 1 Discussion           |
+  | 08     | Spreadsheet-based Solution Method |
+  | 09     | Basic Linear Algebra              |
+  | 10     | Simplex Method                    |
+  | 11     | Sensitivity Analysis              |
+  | 12     | Duality                           |
+  | 13     | Assignment 2 Discussion           |
+  | -      | Quiz-I                            |
+  | 14     | Quiz-I Discussion                 |
+  | 15     | Python Programming                |
+  | 16     | Transportation Problem            |
+  | 17     | Transshipment Problem             |
+  | 18     | Minimum Spanning Tree Problem     |
+  | 19     | Maximum Flow Problem              |
+  | 20     | Assignment 3 Discussion           |
+  | 21     | Least-Cost Path Problem           |
+  | 22     | Travelling Salesman Problem       |
+  | 23     | Vehicle Routing Problem           |
+  | 24     | Location Routing Problem          |
+  | 25     | Assignment 4 Discussion           |
+  | -      | Quiz-II                           |
+  | 26     | Quiz-II Discussion                |
+  | 27     | Non-Linear Programming            |
+  | 28     | Metaheuristics                    |
+  | 29     | Hill Climb                        |
+  | 30     | Tabu Search                       |
+  | 31     | Threshold Accepting               |
+  | 32     | Simulated Annealing               |
+  | 33     | Assignment 5 Discussion           |
+  | 34     | Iterative Local Search            |
+  | 35     | Variable Neighbourhood Search     |
+  | 36     | Evolutionary Computation          |
+  | 37     | Swarm Intelligence                |
+  | 38     | Case Study                        |
+  | 39     | Case Study                        |
+  | 40     | Assignment 6 Discussion           |
+  | 41     | Surplus Lecture                   |
+  | -      | End Sem                           |
+
 ### Grading
 
+#### Assignments (25%)
 
+  | S. No. | Content          | Marks | Due Date   |
+  |--------|------------------|-------|------------| 
+  | 1      | Lectures 02 - 06 | 25    | Lecture 7  |
+  | 2      | Lectures 08 - 12 | 25    | Lecture 13 |
+  | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
+  | 4      | Lectures 21 - 24 | 25    | Lecture 25 |
+  | 5      | Lectures 27 - 32 | 25    | Lecture 33 |
+  | 6      | Lectures 34 - 39 | 25    | Lecture 40 |
 
-### Schedule 
+#### Quiz (25%)
+
+  | S. No. | Content                   | Marks |
+  |--------|---------------------------|-------|
+  | 1      | Lectures 02 - 06, 08 - 12 | 25    |
+  | 2      | Lectures 15 - 19, 21 - 24 | 25    |
+
+#### End Sem (50%)
+
+  | Content                   | Marks |
+  |---------------------------|-------|
+  | Lectures 02 - 06, 08 - 12 | 13    |
+  | Lectures 15 - 19, 21 - 24 | 12    |
+  | Lectures 27 - 32, 34 - 39 | 25    |
