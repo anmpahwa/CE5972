@@ -83,12 +83,12 @@
 
   | S. No. | Content          | Marks | Due Date   |
   |--------|------------------|-------|------------| 
-  | 1      | Lectures 02 - 06 | 25    | Lecture 7  |
-  | 2      | Lectures 08 - 12 | 25    | Lecture 13 |
-  | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
-  | 4      | Lectures 21 - 24 | 25    | Lecture 25 |
-  | 5      | Lectures 27 - 32 | 25    | Lecture 33 |
-  | 6      | Lectures 34 - 39 | 25    | Lecture 40 |
+  | 1      | Lectures 02 - 06 | 30    | Lecture 7  |
+  | 2      | Lectures 08 - 12 | 35    | Lecture 13 |
+  | 3      | Lectures 15 - 19 |       | Lecture 20 |
+  | 4      | Lectures 21 - 24 |       | Lecture 25 |
+  | 5      | Lectures 27 - 32 |       | Lecture 33 |
+  | 6      | Lectures 34 - 39 |       | Lecture 40 |
 
 #### Quiz (25%)
 
