@@ -79,7 +79,7 @@
 
 ### Grading
 
-#### Assignments (25%)
+#### Assignments (10%)
 
   | S. No. | Content          | Marks | Due Date   |
   |--------|------------------|-------|------------| 
@@ -90,7 +90,7 @@
   | 5      | Lectures 27 - 32 |       | Lecture 33 |
   | 6      | Lectures 34 - 39 |       | Lecture 40 |
 
-#### Quiz (25%)
+#### Quiz (40%)
 
   | S. No. | Content                   | Marks |
   |--------|---------------------------|-------|
