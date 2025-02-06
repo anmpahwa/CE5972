@@ -84,7 +84,7 @@
   | S. No. | Content          | Marks | Due Date   |
   |--------|------------------|-------|------------| 
   | 1      | Lectures 02 - 06 | 30    | Lecture 7  |
-  | 2      | Lectures 08 - 12 | 35    | Lecture 13 |
+  | 2      | Lectures 08 - 12 | 30    | Lecture 13 |
   | 3      | Lectures 15 - 19 |       | Lecture 20 |
   | 4      | Lectures 21 - 24 |       | Lecture 25 |
   | 5      | Lectures 27 - 32 |       | Lecture 33 |
@@ -101,6 +101,6 @@
 
   | Content                   | Marks |
   |---------------------------|-------|
-  | Lectures 02 - 06, 08 - 12 | 13    |
-  | Lectures 15 - 19, 21 - 24 | 12    |
-  | Lectures 27 - 32, 34 - 39 | 25    |
+  | Lectures 02 - 06, 08 - 12 | 20    |
+  | Lectures 15 - 19, 21 - 24 | 20    |
+  | Lectures 27 - 32, 34 - 39 | 60    |
