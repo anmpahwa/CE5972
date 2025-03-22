@@ -85,8 +85,8 @@
   |--------|------------------|-------|------------| 
   | 1      | Lectures 02 - 06 | 30    | Lecture 7  |
   | 2      | Lectures 08 - 12 | 30    | Lecture 13 |
-  | 3      | Lectures 15 - 19 |       | Lecture 20 |
-  | 4      | Lectures 21 - 24 |       | Lecture 25 |
+  | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
+  | 4      | Lectures 21 - 24 | 25    | Lecture 25 |
   | 5      | Lectures 27 - 32 |       | Lecture 33 |
   | 6      | Lectures 34 - 39 |       | Lecture 40 |
 
@@ -94,8 +94,8 @@
 
   | S. No. | Content                   | Marks |
   |--------|---------------------------|-------|
-  | 1      | Lectures 02 - 06, 08 - 12 | 25    |
-  | 2      | Lectures 15 - 19, 21 - 24 | 25    |
+  | 1      | Lectures 02 - 06, 08 - 12 | 30    |
+  | 2      | Lectures 15 - 19, 21 - 24 | 30    |
 
 #### End Sem (50%)
 
