@@ -63,18 +63,18 @@
   | 27     | Non-Linear Programming            |
   | 28     | Metaheuristics                    |
   | 29     | Hill Climb                        |
-  | 30     | Tabu Search                       |
   | 31     | Threshold Accepting               |
   | 32     | Simulated Annealing               |
-  | 33     | Assignment 5 Discussion           |
+  | 33     | Tabu Search                       |
   | 34     | Iterative Local Search            |
   | 35     | Variable Neighbourhood Search     |
   | 36     | Evolutionary Computation          |
   | 37     | Swarm Intelligence                |
   | 38     | Case Study                        |
   | 39     | Case Study                        |
-  | 40     | Assignment 6 Discussion           |
+  | 40     | Assignment 5 Discussion           |
   | 41     | Surplus Lecture                   |
+  | 42     | Surplus Lecture                   |
   | -      | End Sem                           |
 
 ### Grading
@@ -87,8 +87,7 @@
   | 2      | Lectures 08 - 12 | 30    | Lecture 13 |
   | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
   | 4      | Lectures 21 - 24 | 25    | Lecture 25 |
-  | 5      | Lectures 27 - 32 |       | Lecture 33 |
-  | 6      | Lectures 34 - 39 |       | Lecture 40 |
+  | 5      | Lectures 27 - 38 | 25    | Lecture 39 |
 
 #### Quiz (40%)
 
