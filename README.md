@@ -1,4 +1,4 @@
-# CE 5972 - Optimisation Techniques in Transportation Engineering
+# CE5972 - Optimisation Techniques in Transportation Engineering
 
 ### Objectives
 
