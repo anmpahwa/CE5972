@@ -87,7 +87,7 @@
   | 2      | Lectures 08 - 12 | 30    | Lecture 13 |
   | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
   | 4      | Lectures 21 - 24 | 25    | Lecture 25 |
-  | 5      | Lectures 27 - 38 | 25    | Lecture 39 |
+  | 5      | Lectures 27 - 39 | 25    | Lecture 40 |
 
 #### Quiz (40%)
 
@@ -102,4 +102,4 @@
   |---------------------------|-------|
   | Lectures 02 - 06, 08 - 12 | 25    |
   | Lectures 15 - 19, 21 - 24 | 25    |
-  | Lectures 27 - 32, 34 - 39 | 25    |
+  | Lectures 27 - 32, 34 - 40 | 25    |
