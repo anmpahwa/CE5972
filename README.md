@@ -38,13 +38,13 @@
   | 04     | Linear Programming                |
   | 05     | Graphical Solution Method         |
   | 06     | Graphical Solution Method         |
-  | 07     | Assignment 1 Discussion           |
+  | 07     | Assignment #1 Discussion          |
   | 08     | Spreadsheet-based Solution Method |
   | 09     | Basic Linear Algebra              |
   | 10     | Simplex Method                    |
   | 11     | Sensitivity Analysis              |
   | 12     | Duality                           |
-  | 13     | Assignment 2 Discussion           |
+  | 13     | Assignment #2 Discussion          |
   | -      | Quiz-I                            |
   | 14     | Quiz-I Discussion                 |
   | 15     | Python Programming                |
@@ -52,12 +52,12 @@
   | 17     | Transshipment Problem             |
   | 18     | Minimum Spanning Tree Problem     |
   | 19     | Maximum Flow Problem              |
-  | 20     | Assignment 3 Discussion           |
+  | 20     | Assignment #3 Discussion          |
   | 21     | Least-Cost Path Problem           |
   | 22     | Travelling Salesman Problem       |
   | 23     | Vehicle Routing Problem           |
   | 24     | Location Routing Problem          |
-  | 25     | Assignment 4 Discussion           |
+  | 25     | Assignment #4 Discussion          |
   | -      | Quiz-II                           |
   | 26     | Quiz-II Discussion                |
   | 27     | Non-Linear Programming            |
@@ -72,7 +72,7 @@
   | 37     | Swarm Intelligence                |
   | 38     | Case Study                        |
   | 39     | Case Study                        |
-  | 40     | Assignment 5 Discussion           |
+  | 40     | Assignment #5 Discussion          |
   | 41     | Surplus Lecture                   |
   | 42     | Surplus Lecture                   |
   | -      | End Sem                           |
@@ -82,7 +82,7 @@
 #### Assignments (10%)
 
   | S. No. | Content          | Marks | Due Date   |
-  |--------|------------------|-------|------------| 
+  |--------|------------------|-------|------------|
   | 1      | Lectures 02 - 06 | 30    | Lecture 7  |
   | 2      | Lectures 08 - 12 | 30    | Lecture 13 |
   | 3      | Lectures 15 - 19 | 25    | Lecture 20 |
