@@ -20,7 +20,7 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       repository_url: "https://github.com/anmpahwa/CE5972" #add your own repo URL here
-      use_repository_button: false
+      use_repository_button: true
       use_issues_button : true
       launch_buttons:
         thebe: true
