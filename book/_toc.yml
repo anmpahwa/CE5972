@@ -2,7 +2,7 @@ format: jb-book
 root: intro.ipynb
 
 parts:
-  - caption: Contents
+  - caption: Content
     chapters:
     - file: content/lecture_01.ipynb
     - file: content/lecture_02.ipynb
