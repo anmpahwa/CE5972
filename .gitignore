@@ -137,6 +137,8 @@ _build/
 pyproject.toml
 
 # my files
+.DS_Store
+CV5972.doc
 records
 tests
 textbooks
