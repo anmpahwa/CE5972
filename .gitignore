@@ -136,10 +136,7 @@ _build/
 # poetry files
 pyproject.toml
 
-textbooks
-git-commit_hash.txt
-Course Outline.doc
-Attendance Record.xlsx
-Attendance Sheet.xlsx
-Timeline.xlsx
+# my files
+records
 tests
+textbooks
