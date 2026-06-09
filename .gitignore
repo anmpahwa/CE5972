@@ -138,6 +138,8 @@ pyproject.toml
 
 # my files
 .DS_Store
+CLAUDE.md
+.claude/settings.local.json
 CV5972.doc
 assignments
 records
